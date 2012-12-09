@@ -2,4 +2,4 @@ language: ruby
 rvm:
   - "1.9.3"
 
-script: "cd TWTB && bundle exec rake --rakefile Rakefile"
+script: "cd twtb && bundle exec rake --rakefile Rakefile"
